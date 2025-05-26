@@ -1,5 +1,5 @@
 const USUARIO_CORRETO = "admin";
-const SENHA_CORRETA = "12345";
+const SENHA_CORRETA = "40302010@Ll";
 
 function logar() {
   const usuario = document.getElementById("usuario").value;
