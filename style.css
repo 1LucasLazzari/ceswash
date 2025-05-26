@@ -1,0 +1,237 @@
+    * {
+      box-sizing: border-box;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      background-color: #f0f6ff;
+      margin: 0;
+      color: #222;
+      padding-bottom: 80px; /* prevent footer overlap */
+    }
+
+    header {
+      background: linear-gradient(90deg, #a3c5f9, #2e69ff);
+      color: white;
+      padding: 20px 10px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0 0 10px 0;
+      font-weight: 700;
+      font-size: 2rem;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+    }
+
+    .nav-btn {
+      background-color: rgba(255 255 255 / 0.3);
+      border: none;
+      padding: 10px 20px;
+      border-radius: 25px;
+      color: white;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      user-select: none;
+    }
+
+    .nav-btn:hover,
+    .nav-btn.active {
+      background-color: rgba(255 255 255 / 0.7);
+      color: #2e69ff;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      background: white;
+      border-radius: 12px;
+      padding: 30px 40px;
+      box-shadow: 0 0 15px rgb(0 0 0 / 0.1);
+    }
+
+    h2 {
+      color: #2e69ff;
+      margin-bottom: 25px;
+      border-bottom: 2px solid #a3c5f9;
+      padding-bottom: 10px;
+    }
+
+    .campo {
+      margin-bottom: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .campo label {
+      font-weight: 600;
+      min-width: 200px;
+      color: #3a4e88;
+    }
+
+    .campo input[type="number"],
+    .campo input[type="text"] {
+      flex: 1;
+      padding: 10px 12px;
+      border: 2px solid #a3c5f9;
+      border-radius: 6px;
+      font-size: 1rem;
+      transition: border-color 0.3s ease;
+    }
+
+    .campo input[type="number"]:focus,
+    .campo input[type="text"]:focus {
+      outline: none;
+      border-color: #2e69ff;
+    }
+
+    .campo button {
+      background-color: #2e69ff;
+      border: none;
+      padding: 10px 18px;
+      border-radius: 30px;
+      color: white;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .campo button:hover {
+      background-color: #1945b8;
+    }
+
+    .resultado {
+      background-color: #e7efff;
+      border: 2px solid #a3c5f9;
+      border-radius: 12px;
+      padding: 15px 20px;
+      font-size: 1.1rem;
+      font-weight: 700;
+      margin-bottom: 15px;
+      color: #2e69ff;
+      user-select: none;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      user-select: none;
+    }
+
+    table th,
+    table td {
+      border: 1px solid #a3c5f9;
+      padding: 12px 15px;
+      text-align: center;
+      font-size: 0.95rem;
+      color: #2e69ff;
+    }
+
+    table th {
+      background-color: #cde0ff;
+      font-weight: 700;
+    }
+
+    input.input-possui {
+      width: 70px;
+      padding: 5px 8px;
+      font-size: 1rem;
+      border: 1.5px solid #a3c5f9;
+      border-radius: 6px;
+      text-align: center;
+    }
+
+    .btn-acao {
+      background-color: #2e69ff;
+      border: none;
+      color: white;
+      font-weight: 700;
+      font-size: 1.2rem;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      cursor: pointer;
+      margin: 0 6px;
+      user-select: none;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn-acao:hover {
+      background-color: #1945b8;
+    }
+
+    .empty-msg {
+      text-align: center;
+      font-style: italic;
+      color: #7082b6;
+      margin-top: 15px;
+    }
+
+    .campo select {
+      flex: 1;
+      padding: 10px 12px;
+      border: 2px solid #a3c5f9;
+      border-radius: 6px;
+      font-size: 1rem;
+      background-color: white;
+      color: #2e69ff;
+      transition: border-color 0.3s ease;
+    }
+
+    .campo select:focus {
+      outline: none;
+      border-color: #2e69ff;
+    }
+
+    .top-vendedor {
+      background-color: #fff7d6;
+      font-weight: bold;
+    }
+
+    .btn-reset {
+      margin-top: 30px;
+      padding: 2px 4px;
+      background-color: #b9b3b3;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .btn-export,
+    .btn-import {
+       margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #fc9802;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    footer {
+      background: linear-gradient(90deg, #a3c5f9, #2e69ff);
+      color: white;
+      padding: 15px 10px;
+      text-align: center;
+      position: fixed;
+      bottom: 0%;
+      left: 0%;
+      width: 100%;
+    }

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Controle de Estoque Swash</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Controle de Estoque - Swash</h1>
+    <nav>
+      <button id="btnControleEstoque" class="nav-btn active">Controle de Estoque</button>
+      <button id="btnIntegrantes" class="nav-btn">Integrantes</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Seção de Controle de Estoque -->
+    <section id="controle-estoque-section">
+      <h2>Controle de Estoque</h2>
+      <div class="campo">
+        <label>Preço fixo por produto:</label>
+        <span id="precoFixo">R$ 15,00</span>
+      </div>
+      <div class="campo">
+        <label for="inputEstoqueManual">Total de estoque disponível:</label>
+        <input type="number" id="inputEstoqueManual" min="0" value="0" />
+      </div>
+
+      <div class="exp">
+        <button id="btnExportarDados" class="btn-export campo">Exportar Dados</button>
+        <button id="btnImportarDados" class="btn-import campo">Importar Dados</button>
+        <input type="file" id="inputImportarArquivo" accept=".json" style="display: none;" />
+      </div>
+
+      <div class="resultado" id="valorEstoqueDisplay"></div>
+      <div class="resultado" id="faturamentoDisplay"></div>
+      <div class="resultado" id="lucroDisplay"></div>
+      <div class="resultado" id="totalVendasDisplay"></div>
+      <div class="resultado" id="topVendedoresDisplay"></div>
+      <button id="btnReiniciarDados" class="btn-reset">Reiniciar Todos os Dados</button>
+    </section>
+
+    <!-- Seção de Integrantes -->
+    <section id="integrantes-section" class="hidden">
+      <h2>Integrantes</h2>
+
+      <!-- Seletor de Semana -->
+      <div class="campo">
+        <label for="selectSemana">Selecionar semana:</label>
+        <select id="selectSemana">
+          <option value="1">Semana 1 ->ㅤ14/05</option>
+          <option value="2">Semana 2 ->ㅤ21/05</option>
+          <option value="3">Semana 3 ->ㅤ28/05</option>
+          <option value="4">Semana 4 ->ㅤ04/06</option>
+          <option value="5">Semana 5 ->ㅤ11/06</option>
+          <option value="6">Semana 6 ->ㅤ18/06</option>
+          <option value="7">Semana 7 ->ㅤ25/06</option>
+        </select>
+      </div>
+
+      <!-- Formulário de Adição de Integrante -->
+      <div class="campo">
+        <input type="text" id="inputNomeIntegrante" placeholder="Nome do integrante" />
+        <input type="number" id="inputPossuiIntegrante" placeholder="Quantidade que o integrante possui" min="0" />
+        <button id="btnAdicionarIntegrante">Adicionar integrante</button>
+      </div>
+
+      <!-- Lista de Integrantes -->
+      <div id="lista-integrantes"></div>
+    </section>
+  </main>
+  <footer> ©2025 copyright - Limpa Tênis Swash</footer>
+  <script src="script.js"></script>
+</body>
+
+</html>
+
