@@ -291,7 +291,7 @@ const preco = 15;
     }
 
     // Botão reiniciar com senha
-    const SENHA_DESENVOLVEDOR = "12345";
+    const SENHA_DESENVOLVEDOR = "0885";
 
     btnReiniciarDados.addEventListener("click", () => {
       const tentativa = prompt("Digite a senha do desenvolvedor para reiniciar os dados:");
