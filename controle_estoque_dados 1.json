@@ -1,0 +1,845 @@
+{
+  "estoqueTotal": 695,
+  "integrantes": [
+    {
+      "nome": "Amanda",
+      "possui": 0,
+      "vendidos": 10,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Ana",
+      "possui": 0,
+      "vendidos": 3,
+      "devolvidos": 2,
+      "semana": "1"
+    },
+    {
+      "nome": "Branco",
+      "possui": 0,
+      "vendidos": 11,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Brian",
+      "possui": 0,
+      "vendidos": 5,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Cairuga",
+      "possui": 0,
+      "vendidos": 7,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Camatti",
+      "possui": 0,
+      "vendidos": 5,
+      "devolvidos": 5,
+      "semana": "1"
+    },
+    {
+      "nome": "Dobler",
+      "possui": 0,
+      "vendidos": 13,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Giusto",
+      "possui": 0,
+      "vendidos": 7,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Goulart",
+      "possui": 0,
+      "vendidos": 7,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Guidini",
+      "possui": 0,
+      "vendidos": 13,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "João Paulo",
+      "possui": 0,
+      "vendidos": 1,
+      "devolvidos": 4,
+      "semana": "1"
+    },
+    {
+      "nome": "Keller",
+      "possui": 0,
+      "vendidos": 10,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Lazzari",
+      "possui": 0,
+      "vendidos": 7,
+      "devolvidos": 3,
+      "semana": "1"
+    },
+    {
+      "nome": "Lorenzo",
+      "possui": 0,
+      "vendidos": 20,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Marcanzoni",
+      "possui": 0,
+      "vendidos": 4,
+      "devolvidos": 1,
+      "semana": "1"
+    },
+    {
+      "nome": "Pandolfi",
+      "possui": 0,
+      "vendidos": 7,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Petry",
+      "possui": 0,
+      "vendidos": 10,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Quevedo",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "1"
+    },
+    {
+      "nome": "Ramish",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 3,
+      "semana": "1"
+    },
+    {
+      "nome": "Ramos",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 2,
+      "semana": "1"
+    },
+    {
+      "nome": "Vanin",
+      "possui": 0,
+      "vendidos": 12,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Vergara",
+      "possui": 0,
+      "vendidos": 7,
+      "devolvidos": 0,
+      "semana": "1"
+    },
+    {
+      "nome": "Wegee",
+      "possui": 0,
+      "vendidos": 1,
+      "devolvidos": 9,
+      "semana": "1"
+    },
+    {
+      "nome": "Zen",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 3,
+      "semana": "1"
+    },
+    {
+      "nome": "Amanda",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 8,
+      "semana": "2"
+    },
+    {
+      "nome": "Ana",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Branco",
+      "possui": 0,
+      "vendidos": 35,
+      "devolvidos": 0,
+      "semana": "2"
+    },
+    {
+      "nome": "Brian",
+      "possui": 0,
+      "vendidos": 1,
+      "devolvidos": 9,
+      "semana": "2"
+    },
+    {
+      "nome": "Cairuga",
+      "possui": 0,
+      "vendidos": 5,
+      "devolvidos": 5,
+      "semana": "2"
+    },
+    {
+      "nome": "Camatti",
+      "possui": 0,
+      "vendidos": 5,
+      "devolvidos": 5,
+      "semana": "2"
+    },
+    {
+      "nome": "Dobler",
+      "possui": 0,
+      "vendidos": 8,
+      "devolvidos": 2,
+      "semana": "2"
+    },
+    {
+      "nome": "Giusto",
+      "possui": 0,
+      "vendidos": 6,
+      "devolvidos": 4,
+      "semana": "2"
+    },
+    {
+      "nome": "Goulart",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 8,
+      "semana": "2"
+    },
+    {
+      "nome": "Guidini",
+      "possui": 0,
+      "vendidos": 1,
+      "devolvidos": 9,
+      "semana": "2"
+    },
+    {
+      "nome": "João Paulo",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Keller",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Lazzari",
+      "possui": 0,
+      "vendidos": 4,
+      "devolvidos": 6,
+      "semana": "2"
+    },
+    {
+      "nome": "Lorenzo",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 8,
+      "semana": "2"
+    },
+    {
+      "nome": "Marcanzoni",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Pandolfi",
+      "possui": 0,
+      "vendidos": 10,
+      "devolvidos": 0,
+      "semana": "2"
+    },
+    {
+      "nome": "Petry",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 8,
+      "semana": "2"
+    },
+    {
+      "nome": "Quevedo",
+      "possui": 0,
+      "vendidos": 7,
+      "devolvidos": 3,
+      "semana": "2"
+    },
+    {
+      "nome": "Ramish",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Ramos",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Vanin",
+      "possui": 0,
+      "vendidos": 10,
+      "devolvidos": 0,
+      "semana": "2"
+    },
+    {
+      "nome": "Vergara",
+      "possui": 0,
+      "vendidos": 1,
+      "devolvidos": 9,
+      "semana": "2"
+    },
+    {
+      "nome": "Wegee",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Zen",
+      "possui": 0,
+      "vendidos": 0,
+      "devolvidos": 10,
+      "semana": "2"
+    },
+    {
+      "nome": "Amanda",
+      "possui": 0,
+      "vendidos": 1,
+      "devolvidos": 4,
+      "semana": "3"
+    },
+    {
+      "nome": "Ana",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 3,
+      "semana": "3"
+    },
+    {
+      "nome": "Branco",
+      "possui": 0,
+      "vendidos": 23,
+      "devolvidos": 0,
+      "semana": "3"
+    },
+    {
+      "nome": "Brian",
+      "possui": 0,
+      "vendidos": 2,
+      "devolvidos": 3,
+      "semana": "3"
+    },
+    {
+    "nome": "Cairuga",
+    "possui": 0,
+    "vendidos": 1,
+    "devolvidos": 4,
+    "semana": "3"
+  },
+  {
+    "nome": "Camatti",
+    "possui": 0,
+    "vendidos": 5,
+    "devolvidos": 5,
+    "semana": "3"
+  },
+  {
+    "nome": "Dobler",
+    "possui": 0,
+    "vendidos": 36,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Giusto",
+    "possui": 0,
+    "vendidos": 2,
+    "devolvidos": 3,
+    "semana": "3"
+  },
+  {
+    "nome": "Goulart",
+    "possui": 0,
+    "vendidos": 10,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Guidini",
+    "possui": 0,
+    "vendidos": 3,
+    "devolvidos": 2,
+    "semana": "3"
+  },
+  {
+    "nome": "João Paulo",
+    "possui": 0,
+    "vendidos": 5,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Keller",
+    "possui": 0,
+    "vendidos": 6,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Lazzari",
+    "possui": 0,
+    "vendidos": 30,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Lorenzo",
+    "possui": 0,
+    "vendidos": 8,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Marcanzoni",
+    "possui": 0,
+    "vendidos": 2,
+    "devolvidos": 3,
+    "semana": "3"
+  },
+  {
+    "nome": "Pandolfi",
+    "possui": 0,
+    "vendidos": 5,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Petry",
+    "possui": 0,
+    "vendidos": 3,
+    "devolvidos": 2,
+    "semana": "3"
+  },
+  {
+    "nome": "Quevedo",
+    "possui": 0,
+    "vendidos": 4,
+    "devolvidos": 1,
+    "semana": "3"
+  },
+  {
+    "nome": "Ramish",
+    "possui": 0,
+    "vendidos": 0,
+    "devolvidos": 5,
+    "semana": "3"
+  },
+  {
+    "nome": "Ramos",
+    "possui": 0,
+    "vendidos": 1,
+    "devolvidos": 4,
+    "semana": "3"
+  },
+  {
+    "nome": "Vanin",
+    "possui": 0,
+    "vendidos": 1,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Vergara",
+    "possui": 0,
+    "vendidos": 5,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Wegee",
+    "possui": 0,
+    "vendidos": 5,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Zen",
+    "possui": 0,
+    "vendidos": 1,
+    "devolvidos": 0,
+    "semana": "3"
+  },
+  {
+    "nome": "Amanda",
+    "possui": 0,
+    "vendidos": 2,
+    "devolvidos": 0,
+    "semana": "4"
+  },
+  {
+    "nome": "Ana",
+    "possui": 0,
+    "vendidos": 0,
+    "devolvidos": 0,
+    "semana": "4"
+  },
+  {
+    "nome": "Branco",
+    "possui": 0,
+    "vendidos": 34,
+    "devolvidos": 0,
+    "semana": "4"
+  },
+  {
+    "nome": "Brian",
+    "possui": 0,
+    "vendidos": 3,
+    "devolvidos": 0,
+    "semana": "4"
+  },
+  {
+  "nome": "Cairuga",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Camatti",
+  "possui": 0,
+  "vendidos": 2,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Dobler",
+  "possui": 0,
+  "vendidos": 58,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Giusto",
+  "possui": 0,
+  "vendidos": 2,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Goulart",
+  "possui": 0,
+  "vendidos": 11,
+  "devolvidos":0,
+  "semana": "4"
+},
+{
+  "nome": "Guidini",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "João Paulo",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Keller",
+  "possui": 0,
+  "vendidos": 2,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Lazzari",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Lorenzo",
+  "possui": 0,
+  "vendidos": 30,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Marcanzoni",
+  "possui": 0,
+  "vendidos": 7,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Pandolfi",
+  "possui": 0,
+  "vendidos": 5,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Petry",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Quevedo",
+  "possui": 0,
+  "vendidos": 5,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Ramish",
+  "possui": 0,
+  "vendidos": 20,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Ramos",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Vanin",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Vergara",
+  "possui": 0,
+  "vendidos": 3,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Wegee",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Zen",
+  "possui": 0,
+  "vendidos": 10,
+  "devolvidos": 0,
+  "semana": "4"
+},
+{
+  "nome": "Amanda",
+  "possui": 0,
+  "vendidos": 2,
+  "devolvidos": 0,
+  "semana": "5"
+},
+{
+  "nome": "Ana",
+  "possui": 0,
+  "vendidos": 0,
+  "devolvidos": 0,
+  "semana": "5"
+},
+{
+  "nome": "Branco",
+  "possui": 0,
+  "vendidos": 14,
+  "devolvidos": 0,
+  "semana": "5"
+},
+{
+  "nome": "Brian",
+  "possui": 0,
+  "vendidos": 3,
+  "devolvidos": 0,
+  "semana": "5"
+},
+{
+"nome": "Cairuga",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Camatti",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Dobler",
+"possui": 0,
+"vendidos": 106,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Giusto",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Goulart",
+"possui": 0,
+"vendidos": 11,
+"devolvidos":0,
+"semana": "5"
+},
+{
+"nome": "Guidini",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "João Paulo",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Keller",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Lazzari",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Lorenzo",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Marcanzoni",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Pandolfi",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Petry",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Quevedo",
+"possui": 0,
+"vendidos": 13,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Ramish",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Ramos",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Vanin",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Vergara",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Wegee",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+},
+{
+"nome": "Zen",
+"possui": 0,
+"vendidos": 0,
+"devolvidos": 0,
+"semana": "5"
+}
+]
+}
